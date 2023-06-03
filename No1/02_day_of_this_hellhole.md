@@ -10,13 +10,13 @@ Welcome message:
 
 "Welcome #insert name here# (you can edit this in the config.txt file)"
 
-NomadOS#start logging.cpr  
-"Start system app logging.cpr"  
+NomadOS#start logging.cp  
+"Start system app logging.cp"  
 NomadOS(logging)# start logging  
-"Auto create file logging.log"
-"The file logging.log already exists"
+"Auto create file logging.cdpr"
+"The caching file logging.cdpr already exists"
 "Auto numbering is on"
-"Renaming the file to logging01.cpr.....100%"
+"Renaming the file to logging01.cdpr.....100%"
 ```
 
 #entry date#_ (This can be edited later)
