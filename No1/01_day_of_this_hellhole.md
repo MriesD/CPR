@@ -13,7 +13,7 @@ Welcome message:
 NomadOS#start logging.cp  
 "Start system app logging.cp"  
 NomadOS(logging)# start logging  
-"Auto create file logging.cp"
+"Auto create file logging.cdpr"
 ```
 #entry date#_ (This can be edited later)
 
@@ -85,7 +85,7 @@ I set Lilly's unicorn on the bedside table next to me. "Hope you will forgive me
 End Log
 Please enter a name for this log file
 NomadOS(logging)#logging day 1
-Saving "logging day 1.cp"
+Saving "logging day 1.cdpr"
 NomadOS(logging)#  
 NomadOS(logging)#logoff
 
