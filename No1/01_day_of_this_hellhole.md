@@ -10,10 +10,10 @@ Welcome message:
 
 "Welcome #insert name here# (you can edit this in the config.txt file)"
 
-NomadOS#start logging.cpr  
-"Start system app logging.cpr"  
+NomadOS#start logging.cp  
+"Start system app logging.cp"  
 NomadOS(logging)# start logging  
-"Auto create file logging.log"
+"Auto create file logging.cp"
 ```
 #entry date#_ (This can be edited later)
 
@@ -83,7 +83,9 @@ I set Lilly's unicorn on the bedside table next to me. "Hope you will forgive me
 
 ```python
 End Log
-Saving "logging day 1.log"
+Please enter a name for this log file
+NomadOS(logging)#logging day 1
+Saving "logging day 1.cp"
 NomadOS(logging)#  
 NomadOS(logging)#logoff
 
