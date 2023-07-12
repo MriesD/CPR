@@ -18,4 +18,8 @@
   
   
 - `Session2:`  
-  1. [TBA](P43.04.28-TL.md\#tba)
+  1. [`Trust//Betrayal`](P43.04.28-TL.md\#trust-betrayal)  
+
+
+- `Session3:`  
+  1. [TBA](P43.04.28-TL.md\#TBA)  
