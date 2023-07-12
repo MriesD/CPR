@@ -1,26 +1,25 @@
-[Booting NomadOS.......................................................................................100%]
-[Welcome to Nomad fuckery OS and navigation software with ECC 2048 encryption]
-[NOS 2077 Software (N2077-FR69-M), Version 20.77(13)]
-[Copyright 2022-2050 by "your fucking grandpa!!!"]
-[Image text-base: 2x60468930, data-base: 09x69537000]
+```python
+Booting NomadOS....................................................................100%
+Welcome To Nomad fuckery OS and navigation software with ECC 2048 encryption
+Loading NOS 2077 Software (N2077-FR69-M), Version 20.77(13)
+Copyright 2022-2050 by "your fucking grandpa!!!"
+Searching satellites....20%....40%....60%....80%........100%
+Satellites found: 11
+Encrypting connection using ECC 2048..............done
+Welcome message:
 
-[Searching satellites....20%....40%....60%....80%....100%]
-[11 satellites found]
-[Encrypting connection using ECC 2048...... Done....]
+"Welcome #insert name here# (you can edit this in the config.txt file)"
 
-"Welcome `#insert name here#` (you can edit this in the config.txt file)"
+NomadOS#start logging.cp  
+"Start system app logging.cp"  
+NomadOS(logging)# start logging  
+"Auto create file logging.cdpr"
+"The caching file logging.cdpr already exists"
+"Auto numbering is on"
+"Renaming the file to logging01.cdpr.....100%"
+```
 
--------------------------------------------------------------------------------
-NomadOS#start logging.cpr
-[#####Start system app logging.cpr#####]
-NomadOS(logging)# start logging
-[Auto create file logging.log]
-[The file logging.log already exists]
-[Auto numbering is on]
-[Renaming the file to logging01.cpr.....100%]
-
-`#entry date#`
-
+#entry date#_ (This can be edited later)
 
 The couple is already up and running. Tattoo is in the hallway doing her hacking shit by a vending machine. Gets me a cheap coffee and a some snacks. Forgot to log yesterday that Piercing finally trade in the arm yesterday for hardware for his girlfriend. Trade in her eyes... I still don't get why people want to trade in their working body parts. Always thought it was nice to have something whenever you lose something, but not because you want...Anyway... This day... Seems like we have a murder to do. I think this isn't Strix and Treetu's first rodeo. I'm not so sure about Sjaakie... He seems he can handle himself though. But killing someone? We'll see. 
 

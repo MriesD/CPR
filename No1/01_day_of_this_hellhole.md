@@ -1,62 +1,60 @@
-[Booting NomadOS.......................................................................................100%]
-[Welcome to Nomad fuckery OS and navigation software with ECC 2048 encryption]
-[NOS 2077 Software (N2077-FR69-M), Version 20.77(13)]
-[Copyright 2022-2050 by "your fucking grandpa!!!"]
-[Image text-base: 2x60468930, data-base: 09x69537000]
+```python
+Booting NomadOS..................................................................100%
+Welcome To Nomad fuckery OS and navigation software with ECC 2048 encryption
+Loading NOS 2077 Software (N2077-FR69-M), Version 20.77(13)
+Copyright 2022-2050 by "your fucking grandpa!!!"
+Searching satellites....20%......40%....60%....80%....100%
+Satellites found: 8
+Encrypting connection using ECC 2048............done
+Welcome message:
 
-[Searching satellites....20%....40%....60%....80%....100%]
-[8 satellites found]
-[Encrypting connection using ECC 2048...... Done....]
+"Welcome #insert name here# (you can edit this in the config.txt file)"
 
-"Welcome `#insert name here#` (you can edit this in the config.txt file)"
+NomadOS#start logging.cp  
+"Start system app logging.cp"  
+NomadOS(logging)# start logging  
+"Auto create file logging.cdpr"
+```
+#entry date#_ (This can be edited later)
 
--------------------------------------------------------------------------------
-NomadOS#start logging.cpr
-[#####Start system app logging.cpr#####]
-NomadOS(logging)# start logging
-[Auto create file logging.log]
+"How the fuck does this fucking piece of sh... Oh wait, it's already logging my thoughts."
 
-`#entry date#`
+"Man... Where to start... You know what, let's start at the beginning of the day full of shit."
 
-How the fuck does this fucking piece of sh... Oh wait, it's already logging my thoughts.
+"It already was a hell to get on this plane... Leaving my old life behind was not that easy, but there's nothing left for me there. I'm in the sights of some old police officer and the new 'family' was not too accepting. For now om gone from those bad last years. Who knows I come back at some time in de present.  If I'm alive at least. Right now I'm flying in some shit plane to Night City. Heard some popular shithead dropped a nuke on a Corp building a while ago. Everything is still a fuckshow. Best time to get there the most unnoticed."
 
-Man... Where to start... You know what, let's start at the beginning of the day full of shit.
+"This plane...
 
-It already was a hell to get on this plane... Leaving my old life behind was not that easy, but there's nothing left for me there. I'm in the sights of some old police officer and the new 'family' was not too accepting. For now om gone from those bad last years. Who knows I come back at some time in de present.  If I'm alive at least. Right now I'm flying in some shit plane to Night City. Heard some popular shithead dropped a nuke on a Corp building a while ago. Everything is still a fuckshow. Best time to get there the most unnoticed.
+"A mom and child are watching some air. Probably a kids show of some kind.
 
-This plane...
+"And a... Hold up, a waitress is asking me if I want a drink. Maybe time to taste a whisky everybody talking about? When I asked for one I get a cup of some clear liquid. Sounds nothing like they explained to me. As a take a sip of something that tastes like pure alcohol, this waitress explains it still needs an ampule. Way to much of a hassle for a fucking drink. Still tastes like shit afterwards.
 
-A mom and child are watching some air. Probably a kids show of some kind.
+"Looking in the plane there is are some people standing a bit out. Looks like I'm not the only one starting a new life. One business look-a-like dude who is looking like he lives in an office. A dude with piercings and shit is walking down the path to a girl and starts talking about a tattoo... I heard worse pick up lines... Hehe.
 
-And a... Hold up, a waitress is asking me if I want a drink. Maybe time to taste a whisky everybody talking about? When I asked for one I get a cup of some clear liquid. Sounds nothing like they explained to me. As a take a sip of something that tastes like pure alcohol, this waitress explains it still needs an ampule. Way to much of a hassle for a fucking drink. Still tastes like shit afterwards.
+"And there is the sound of the voice telling us to land. Looking at the red sky and bit of wasteland I can see outside I know this is going to be a new beginning for me. Let's see where the city of opportunities gets me.
 
-Looking in the plane there is are some people standing a bit out. Looks like I'm not the only one starting a new life. One business look-a-like dude who is looking like he lives in an office. A dude with piercings and shit is walking down the path to a girl and starts talking about a tattoo... I heard worse pick up lines... Hehe.
+"Getting of the plane I'm held up by some dickfaces in uniforms. To my surprise the business dude, piercing guy and tattoo girl as well! All they want is to have a little chat... He... I know what they want to "chat" about. Assholes... After "giving a good reason" we decided to come with the dickfaces to some dim-lit fucking room.
 
-And there is the sound of the voice telling us to land. Looking at the red sky and bit of wasteland I can see outside I know this is going to be a new beginning for me. Let's see where the city of opportunities gets me.
+"When tattoo girl sits down, she mumbles something and looks like she got a seizure. Something with flashing eyes or whatever. Dunno what exactly she's doing but I don't care either way at this point. Business dude seems like the most compliant one here. I can even give him some commando's and before you know, he is walking circles in the room! I like this one, he's funny. When Piercing is going to admire his ugly fucking mug in the mirror he scares the shit out of himself! Another idiot here. Hehe... Seizure/tattoo girl seems to get back to earth. Right as 2 dickfaces walks in with some hotshot dude behind them.
 
-Getting of the plane I'm held up by some dickfaces in uniforms. To my surprise the business dude, piercing guy and tattoo girl as well! All they want is to have a little chat... He... I know what they want to "chat" about. Assholes... After "giving a good reason" we decided to come with the dickfaces to some dim-lit fucking room.
+"Mister Hotshot calls himself Max Sharpley, some kind of NCPD inspector and wants us to do a job, probably something off-record.
 
-When tattoo girl sits down, she mumbles something and looks like she got a seizure. Something with flashing eyes or whatever. Dunno what exactly she's doing but I don't care either way at this point. Business dude seems like the most compliant one here. I can even give him some commando's and before you know, he is walking circles in the room! I like this one, he's funny. When Piercing is going to admire his ugly fucking mug in the mirror he scares the shit out of himself! Another idiot here. Hehe... Seizure/tattoo girl seems to get back to earth. Right as 2 dickfaces walks in with some hotshot dude behind them.
+"We get two choices:
+1. "Do the fucking job, get paid (§500 up front and the rest after the job is complete) 
+	"Perk: get access to Night Fucking City
 
-Mister Hotshot calls himself Max Sharpley, some kind of NCPD inspector and wants us to do a job, probably something off-record.
+2. "Don't do the fucking job
+	"Con: get on the same plane back "home"
 
-We get two choices:
+"Well, seeing as I don't have a home anymore where I came from it isn't that hard of a choice...
 
-1. Do the fucking job, get paid (§500 up front and the rest after the job is complete) 
-	Perk: get access to Night Fucking City
+"The job is chasing some dark-skinned Corp dude carrying a suitcase. We can find him every day next to the Arasaka nuke site.
 
-2. Don't do the fucking job
-	Con: get on the same plane back "home"
+1. "We are the ones who needs to convince our Corp dude to part way with his suitcase. Doesn't matter which ways of "convincing" we use.
 
-Well, seeing as I don't have a home anymore where I came from it isn't that hard of a choice...
+2. "After this we need to bring the suitcase to hotshot himself. We are not allowed to open said suitcase.
 
-The job is chasing some dark-skinned Corp dude carrying a suitcase. We can find him every day next to the Arasaka nuke site.
-
-1. We are the ones who needs to convince our Corp dude to part way with his suitcase. Doesn't matter which ways of "convincing" we use.
-
-2. After this we need to bring the suitcase to hotshot himself. We are not allowed to open said suitcase.
-
-More questions about corp dude are answered by "I dunno" by Hotshot. Seems like he doesn't care bout the corp dude. Makes the job easier.
+"More questions about corp dude are answered by "I dunno" by Hotshot. Seems like he doesn't care bout the corp dude. Makes the job easier.
 
 Talking to the rest of the group, we finally share our names.
 
@@ -82,15 +80,18 @@ Man... What a day... Amanda... Lilly... I hope you can't see me in the shit I am
 I set Lilly's unicorn on the bedside table next to me. "Hope you will forgive me for leaving you behind that day..."
 
 ^
-[End log]
-[Saving "logging day 1.log"]
-NomadOS(logging)#
+
+```python
+End Log
+Please enter a name for this log file
+NomadOS(logging)#logging day 1
+Saving "logging day 1.cdpr"
+NomadOS(logging)#  
 NomadOS(logging)#logoff
-[Closing encrypted navigation
+
+
+Closing encrypted navigation
 Saving your files (and ass)
-Login off user..........100%]
-
-
-
-Goodbye `#insert name here#`
-
+Login off user..........100%
+Goodbye message:
+"Goodbye #insert name here# (you can edit this in the config.txt file)"
