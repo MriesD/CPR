@@ -18,7 +18,7 @@
   
   
 - `Session2:`  
-  1. [`Trust//Betrayal`](P43.04.28-TL.md\#trust-betrayal)  
+  1. [`Trust//Betrayal`](P43.04.28-TL.md\#trustbetrayal)  
 
 
 - `Session3:`  
