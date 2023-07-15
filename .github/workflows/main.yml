@@ -1,29 +1,29 @@
-#name: Publish to GitHub Pages
+name: Publish to GitHub Pages Repository
 
-#"on":
-#  push:
-#    branches:
-#      - master
+"on":
+  push:
+    branches:
+      - main
 
-#jobs:
-#  post:
-#    runs-on: ubuntu-latest
-#    steps:
-#      - uses: actions/checkout@v3
-#      - name: Creates output folder and remove .github
-#        run:  |
-#              mkdir output
-#              cp -r * output
-#              rm -rf output/.github/*
-#      - name: Pushes to public repository
-#        id: push_directory
-#        uses: cpina/github-action-push-to-another-repository@ssh-deploy-key
-#        env:
-#          SSH_DEPLOY_KEY: ${{ secrets.WORKFLOW_DEPLOY_KEY }}
-#        with:
-#          source-directory: output/
-#          destination-github-username: 'pllee4-Experimental'
-#          destination-repository-name: 'mock-medium-output'
-#          user-email: pinloon_0428@hotmail.com
-#          commit-message: pushed from $GITHUB_REF
-#          target-branch: master
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Creates output folder and remove .github
+        run:  |
+              mkdir output
+              cp -r * output
+              rm -rf output/.github/*
+      - name: Pushes to GitHub Pages repository
+        id: push_directory
+        uses: cpina/github-action-push-to-another-repository@ssh-deploy-key
+        env:
+          SSH_DEPLOY_KEY: ${{ secrets.WORKFLOW_DEPLOY_KEY }}
+        with:
+          source-directory: output/
+          destination-github-username: 'MriesD'
+          destination-repository-name: 'CPR.github.io'
+          user-email: m.diekhorst@me.com
+          commit-message: pushed from $GITHUB_REF
+          target-branch: main
