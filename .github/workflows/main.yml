@@ -24,6 +24,6 @@ jobs:
           source-directory: output/
           destination-github-username: 'MriesD'
           destination-repository-name: 'CPR.github.io'
-          user-email: m.diekhorst@me.com
+          user-email: ${{ secrets.EMAIL }}
           commit-message: pushed from $GITHUB_REF
           target-branch: main
