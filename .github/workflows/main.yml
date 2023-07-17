@@ -11,10 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Creates output folder and remove .github
+        # cp -r */*.html output # Should be added later in the RUN-command
         run:  |
               mkdir output
               cp -r */*.md output
-              # cp -r */*.html output
               rm -rf output/.github/*
       - name: Pushes to GitHub Pages repository
         id: push_directory
