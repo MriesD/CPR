@@ -13,7 +13,8 @@ jobs:
       - name: Creates output folder and remove .github
         run:  |
               mkdir output
-              cp -r *.md output
+              cp *.md output
+              cp -r */*.md output
               # cp -r */*.html output
               rm -rf output/.github/*
       - name: Pushes to GitHub Pages repository
