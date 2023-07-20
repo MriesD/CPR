@@ -29,5 +29,5 @@ jobs:
           destination-repository-name: 'CyberPunkRed.github.io'
           user-name: 'MriesD'
           user-email: ${{ secrets.EMAIL }}
-          commit-message: pushed from $GITHUB_REF
+          commit-message: pushed from $GITHUB_REF from /MriesD/CPR
           target-branch: main
