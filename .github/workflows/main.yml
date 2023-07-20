@@ -17,6 +17,7 @@ jobs:
               cp -r */*.mp3 output
               # cp -r */*.html output
               rm -rf output/.github/*
+              rm -rf output/_scribble/*
       - name: Pushes to GitHub Pages repository
         id: push_directory
         uses: cpina/github-action-push-to-another-repository@ssh-deploy-key
