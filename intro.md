@@ -1,7 +1,7 @@
 # Main.Log
 
 ```powershell
-#This file contains a table of contents of all written stories for the 'Lightless Descent into Neon Midnight' CyberPunk Red campaing.
+#This file contains a table of contents of all written stories for the 'Lightless Descent into Neon Midnight' CyberPunk Red campaign.
 ```
 
 ## Table of Contents:
