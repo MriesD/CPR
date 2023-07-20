@@ -1,1 +1,1 @@
-$\textsf{\color[RGB]{109, 7, 8}[Content following soon...]}$  
+$\textsf{\color[RGB]{205, 36, 23}[Content following soon...]}$  
