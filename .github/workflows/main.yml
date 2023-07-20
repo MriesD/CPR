@@ -24,8 +24,9 @@ jobs:
           SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
         with:
           source-directory: output/
-          destination-github-username: 'MriesD'
+          destination-github-username: 'CyberPunkRed'
           destination-repository-name: 'CyberPunkRed.github.io'
+          user-name: 'MriesD'
           user-email: ${{ secrets.EMAIL }}
           commit-message: pushed from $GITHUB_REF
           target-branch: main
